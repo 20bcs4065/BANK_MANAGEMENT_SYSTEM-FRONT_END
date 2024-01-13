@@ -1,0 +1,215 @@
+*{
+  
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+nav{
+  background-color: rgb(255, 255, 255);
+}
+.cont{
+  display: flex;
+  justify-content: space-between;
+
+}
+.navl{
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+}
+.navl a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.title{
+  width: 420px;
+  margin-top: 15px;
+  font-weight: bold;
+  font-size: 35px;
+  
+}
+.title2{
+  width: 420px;
+  text-align: right;
+  margin-bottom: 5px;
+  margin-right: 45px;
+}
+.t1{
+ color: rgb(250, 82, 110);
+}
+.t2{
+  color: black;  
+ }
+ .bg{
+  margin-top: 10px;
+  height: 679px;
+  width: 1500px;
+ }
+ .pop{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background-color: rgba(21, 21, 21, 0.807);
+  color: white;
+  height: 240px;
+  border-radius: 20px;
+ 
+ }
+ .para{
+  opacity: 1;
+ }
+ .topp{
+  background-color:  rgb(252, 26, 64);
+  height: 20px;
+ }
+ .red1{
+  background-color: rgba(37, 37, 37, 0.326);
+  color: white;
+  height: 40px;
+  border-radius: 40px ;
+  border-color: rgb(252, 26, 64);
+  cursor: pointer;
+  width: 365px;
+ }
+ .crecont{
+  display: flex;
+  justify-content: space-evenly;
+  
+ }
+ .ca{
+  background-color: black;
+  color: white;
+  height: 650px;
+  width: 650px;
+  margin-top: 10px;
+  border-radius: 20px;
+ }
+ .t3{
+  text-align: center;
+  margin-top: 30px;
+  font-size: 25px;
+ }
+ .fie{
+  margin-top: 50PX;
+ }
+ .fies{
+  height: 30px;
+  width: 350px;
+  border-radius: 40px;
+  padding-left: 20px;
+  border-color: rgb(252, 26, 64);
+ }
+ .nav2{
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  margin-right: 10px;
+}
+
+.nav2 a{
+  text-decoration: none;
+  color: rgb(13, 13, 13);
+  font-weight: bold;
+}
+.p2{
+  color: rgb(252, 26, 64);
+  font-weight: bold;
+}
+.img2{
+  height: 650px;
+  width: 650px;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+.ca2{
+  background-color: black;
+  color: white;
+  height: 400px;
+  width: 450px;
+  margin-top: 50px;
+  border-radius: 20px;
+  margin-top: 100px;
+ }
+ .red2{
+  background-color: rgba(37, 37, 37, 0.326);
+  color: white;
+  height: 40px;
+  border-radius: 30px ;
+  border-color: rgb(252, 26, 64);
+  cursor: pointer;
+  width: 100px;
+ }
+ .fie2{
+  margin-top: 80PX;
+ }
+ .cc{
+  font-weight: bold;
+ }
+
+ .nav3{
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  margin-right: 80px;
+  justify-content: space-between;
+}
+
+.nav3 a{
+  text-decoration: none;
+  color: rgb(13, 13, 13);
+  font-weight: bold;
+
+}
+
+.title3{
+  width: 900px;
+  text-align: right;
+  margin-bottom: 5px;
+  margin-right: 0px;
+}
+.ic1{
+  margin-top: 3px;
+  cursor: pointer;
+}
+.acc{
+  font-weight: bold;
+  color: rgb(252, 26, 64);
+  cursor: pointer;
+}
+.p11{
+  color: rgb(252, 26, 64);
+  cursor: pointer;
+  font-weight: bold;
+}
+.ft{
+  text-align: center;
+}
+.iconss{
+  display: flex;
+  justify-content: space-evenly;
+  height: 30px;
+}
+.loo{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.head{
+  margin: 0px 0px;
+  margin-top: 5px;
+  margin-right: 10px;
+  text-decoration: underline;
+}
